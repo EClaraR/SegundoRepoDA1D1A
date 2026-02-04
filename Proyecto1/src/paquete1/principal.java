@@ -6,7 +6,9 @@ public class principal {
 		// TODO Auto-generated method stub
 		System.out.println("Primera línea");
 		System.out.println("Segunda línea");
+		System.out.println("tercera línea");
 
 	}
 
 }
+
